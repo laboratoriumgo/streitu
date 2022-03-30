@@ -3,3 +3,11 @@
 
 -  o que é um teste de estresse?
     -  Testes de estresse são usados para garantir a estabilidade e a confiabilidade do sistema. Os testes simulam uma alta taxa de dados e de tráfego e registram como o sistema responde nestas condições. É um dos testes mais importantes para garantir o sucesso das vendas, especialmente nas datas comerciais.
+
+## primeiros passos
+
+```shell
+$ git clonehttps://github.com/laboratoriumgo/streitu.git
+$ cd streitu/
+$ go build streitu.go
+```
